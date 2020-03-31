@@ -15,6 +15,7 @@ button.button{
 .card{
 border-radius: 10px;
 margin: 5px 0px 6px 0px;
+width: 350px;
 }
 .doc{
     margin-top: -10px;
